@@ -4,3 +4,4 @@ venv
 **/__pycache__
 **/pyreport.html
 **/result.xml
+.env
